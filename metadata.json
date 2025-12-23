@@ -1,0 +1,7 @@
+{
+  "name": "Aloha Big Island Explorer",
+  "description": "A comprehensive, family-friendly travel itinerary for Hawaii's Big Island, featuring detailed daily plans, points of interest, and map integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
